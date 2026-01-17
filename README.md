@@ -6,6 +6,9 @@ This project is a scalable, cloud-native **eCommerce analytics and security dete
 
 The system is designed for **high throughput, low latency, fault tolerance, and cost-efficient storage**, making it suitable for large-scale data-driven platforms.
 
+
+<img width="1536" height="1024" alt="project-diagram" src="https://github.com/user-attachments/assets/6222f171-1cb2-4013-ab52-aac1874d92d7" />
+
 ---
 
 ## 🏗️ System Architecture
