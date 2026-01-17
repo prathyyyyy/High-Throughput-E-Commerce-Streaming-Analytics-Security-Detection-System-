@@ -93,6 +93,16 @@ The system is designed for **high throughput, low latency, fault tolerance, and 
 * Automated alerts for suspicious traffic
 
 ---
+## proofs
+<img width="1505" height="255" alt="Screenshot 2025-12-12 182959" src="https://github.com/user-attachments/assets/a9b29baa-c078-49aa-81a8-8a42e6d403db" />
+<img width="558" height="474" alt="Screenshot 2025-12-13 001548" src="https://github.com/user-attachments/assets/18d013c4-dd5f-4fc0-94c5-6fe3cecba141" />
+<img width="1861" height="667" alt="Screenshot 2025-12-12 211919" src="https://github.com/user-attachments/assets/861a72b7-2f11-442e-bc1a-d1e557a71613" />
+<img width="475" height="503" alt="Screenshot 2025-12-12 212051" src="https://github.com/user-attachments/assets/112d6e33-69a0-4580-9a5a-eccf281cfa54" />
+<img width="991" height="585" alt="Screenshot 2025-12-10 022353" src="https://github.com/user-attachments/assets/af2e7c66-708f-4f4b-90fe-5f4ef1169f57" />
+<img width="1084" height="419" alt="Screenshot 2025-12-10 022659" src="https://github.com/user-attachments/assets/a98c9e27-7cfa-4681-be3e-0cc857ad1b53" />
+
+
+--- 
 
 ## 📈 Use Cases
 
@@ -101,16 +111,6 @@ The system is designed for **high throughput, low latency, fault tolerance, and 
 * Category and brand performance tracking
 * Bot and DDoS attack detection
 * Operational monitoring for eCommerce platforms
-
----
-
-## 🧪 Future Enhancements
-
-* Machine learning–based anomaly detection
-* Dashboarding with QuickSight / Grafana
-* Multi-region failover support
-* Schema evolution and CDC support
-
 
 ---
 
